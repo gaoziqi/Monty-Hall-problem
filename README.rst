@@ -10,4 +10,4 @@
 	"change_wins"	: 33232, 
 	"unchange_wins"	: 16607, 
 	"change_pro"	: 0.6629825436408977, 
-	"unchange_pro"	: 0.33297243107769425}
+	"unchange_pro"	: 0.33297243107769425
